@@ -1,0 +1,18 @@
+﻿  intervalscanline.cpp
+D:\学习资料\post\CG_homework\CG_Scanline\CG_Scanline\intervalscanline.cpp(44): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\学习资料\post\CG_homework\CG_Scanline\CG_Scanline\intervalscanline.cpp(51): warning C4244: “参数”: 从“double”转换到“const unsigned __int64”，可能丢失数据
+D:\学习资料\post\CG_homework\CG_Scanline\CG_Scanline\intervalscanline.cpp(58): warning C4244: “参数”: 从“double”转换到“const unsigned __int64”，可能丢失数据
+D:\学习资料\post\CG_homework\CG_Scanline\CG_Scanline\intervalscanline.cpp(61): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\学习资料\post\CG_homework\CG_Scanline\CG_Scanline\intervalscanline.cpp(69): warning C4244: “参数”: 从“double”转换到“const unsigned __int64”，可能丢失数据
+D:\学习资料\post\CG_homework\CG_Scanline\CG_Scanline\intervalscanline.cpp(184): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\学习资料\post\CG_homework\CG_Scanline\CG_Scanline\intervalscanline.cpp(220): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\学习资料\post\CG_homework\CG_Scanline\CG_Scanline\intervalscanline.cpp(225): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\学习资料\post\CG_homework\CG_Scanline\CG_Scanline\intervalscanline.cpp(233): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+x64\Release\intervalscanline.obj : warning LNK4042: 对象被多次指定；已忽略多余的指定
+x64\Release\scanlinezbuffer.obj : warning LNK4042: 对象被多次指定；已忽略多余的指定
+  正在生成代码
+  1 of 1169 functions (<0.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  CG_Scanline.vcxproj -> D:\学习资料\post\CG_homework\CG_Scanline\x64\Release\CG_Scanline.exe
